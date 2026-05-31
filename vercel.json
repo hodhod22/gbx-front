@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "poolbeferest.com"
+        }
+      ],
+      "destination": "https://www.poolbeferest.com/",
+      "statusCode": 301
+    }
+  ]
+}
